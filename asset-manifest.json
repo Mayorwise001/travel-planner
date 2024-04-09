@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mayorwise001/travel-planner/static/css/main.45ab1e2d.css",
+    "main.js": "/Mayorwise001/travel-planner/static/js/main.008b4400.js",
+    "static/js/453.a4740b34.chunk.js": "/Mayorwise001/travel-planner/static/js/453.a4740b34.chunk.js",
+    "index.html": "/Mayorwise001/travel-planner/index.html",
+    "main.45ab1e2d.css.map": "/Mayorwise001/travel-planner/static/css/main.45ab1e2d.css.map",
+    "main.008b4400.js.map": "/Mayorwise001/travel-planner/static/js/main.008b4400.js.map",
+    "453.a4740b34.chunk.js.map": "/Mayorwise001/travel-planner/static/js/453.a4740b34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ab1e2d.css",
+    "static/js/main.008b4400.js"
+  ]
+}
