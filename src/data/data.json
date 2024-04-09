@@ -1,0 +1,30 @@
+{
+    "blogs": [
+      {
+        "name": "Mayowa",
+        "phone": "08130274215",
+        "email": "tomosorijoseph@dumb.com",
+        "destination": "My First Blog",
+        "traveldates": "Why do we use it?",
+        "no": "mario",
+        "accomodation": "Duplex",
+        "interest": "Swimming",
+        "requirement": "Extra safety jacket",
+        "comment": "I love quietness",
+        "id": "3"
+      },
+      {
+        "id": "ada2",
+        "name": "Joseph",
+        "phone": "07053439570",
+        "email": "tomosorijoseph@yahoo.com",
+        "destination": "Dubai",
+        "travel": "3",
+        "traveldate": "2024-04-13",
+        "accomodation": "Bongalow",
+        "interest": "Skying",
+        "requirement": "Helmet",
+        "comment": "Privacy is priority"
+      }
+    ]
+  }
