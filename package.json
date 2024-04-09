@@ -1,7 +1,7 @@
 {
   "name": "travel-planner",
   "version": "0.1.0",
-  "homepage": "https://github.com/Mayorwise001/travel-planner",
+  "homepage": "https://Mayorwise001.github.io/travel-planner",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
