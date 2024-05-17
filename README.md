@@ -1,3 +1,6 @@
+
+The Json file which represent the database server may not be visible hence resulting to unable to fetch error
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
